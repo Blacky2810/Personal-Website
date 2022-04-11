@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pyco Bot",
+    "desc": "Pyco is a multifunctional bot created in Node.js with various libraries, we have also integrated a dashboard to manage your server more easily.",
+    "image": "pyco",
+    "category": "Bot",
+    "links": {
+      "view": "https://pycolabs.ga/",
+      "code": "https://github.com/Blacky2810/Pyco-Bot"
+    }
+  },
+  {
+    "name": "Blacky2810 Website",
+    "desc": "Blacky2810 personal site, Done in Html, Css and Javascript.",
+    "image": "blacky2810",
+    "category": "Web",
+    "links": {
+      "view": "https://blacky2810.ga/",
+      "code": "https://github.com/Blacky2810/Personal-Website"
+    }
+  },
+  {
+    "name": "BlackysDev Website",
+    "desc": "Official website of Discord Blacky's Development server.",
+    "image": "blackysdev",
+    "category": "Web",
+    "links": {
+      "view": "https://blackysdev.ga",
+      "code": "https://github.com/Blacky2810/BlackyDev-Website"
+    }
+  },
+	{
+    "name": "Manage-Giveaways",
+    "desc": "Npm Package to manage and create a discord giveaways bot.",
+    "image": "giveaways",
+    "category": "Packages",
+    "links": {
+      "view": "https://manage-giveaways.ga",
+      "code": "https://github.com/Blacky2810/Manage-Giveaways"
+    }
+  }
+]
